@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything related to Flutter & Dart**
 
-- 📫 How to reach me **linkedin.com/in/albinpk/**
+- 📫 How to reach me **abnpkdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
